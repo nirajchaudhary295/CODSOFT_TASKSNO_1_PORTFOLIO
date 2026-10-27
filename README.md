@@ -44,7 +44,7 @@ This portfolio represents my learning journey and my growing experience in web d
 
 ### 🚀 Visit My Portfolio
 
-**[Open Portfolio Website](https://shekhar-himanshu-dbg.github.io/CODSOFT_TASKSNO_1_PORTFOLIO/)**
+**[Open Portfolio Website](https://nirajchaudhary295.github.io/CODSOFT_TASKSNO_1_PORTFOLIO/)**
 
 My portfolio includes information about my:
 
