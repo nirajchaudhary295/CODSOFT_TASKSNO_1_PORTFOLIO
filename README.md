@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="/">
+  <a href="https://nirajchaudhary295.github.io/CODSOFT_TASKSNO_1_PORTFOLIO">
     🌐 Live Portfolio
     https://nirajchaudhary295.github.io/CODSOFT_TASKSNO_1_PORTFOLIO/
   </a>
