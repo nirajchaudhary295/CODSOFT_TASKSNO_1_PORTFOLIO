@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://shekhar-himanshu-dbg.github.io/CODSOFT_TASKSNO_1_PORTFOLIO/">
+  <a href="/">
     🌐 Live Portfolio
   </a>
   &nbsp; • &nbsp;
